@@ -1,0 +1,80 @@
+- title: AI问答助手
+  tags: [fa-solid fa-star]
+  websites:
+    - name: chatgpt4.0
+      url: http://goland.cc/
+      image: /images/logos/chatgpt4.0.png
+      description: 免费无注册-最好01
+    - name: chatgpt4.0
+      url: https://www.a0.chat/
+      image: /images/logos/chatgpt4.0.png
+      description: 免费无注册-百晓生AI
+    - name: 文心一言
+      url: https://yiyan.baidu.com/
+      image: /images/logos/wenxin.png
+      description: 百度AI对话-文心一言
+    - name: 通义千问
+      url: https://qianwen.aliyun.com/
+      image: /images/logos/tongyiqianwen.png
+      description: 阿里AI对话-通义千问
+    - name: 灵感引擎[ai大全]
+      url:  https://www.aixx.ai/
+      image: /images/logos/chatgpt4.0.png
+      description: 免费无注册-灵感引擎[ai大全]
+    - name: 思默问答[ai大全]
+      url:  https://www.sitesmo.com/
+      image: /images/logos/simo.png
+      description: 免费无注册-思默问答[ai大全]
+
+- title: AI绘画处理
+  tags: [fa-solid fa-comment-dots]
+  websites:
+    - name: 文心一格
+      url: https://yige.baidu.com/
+      image: /images/logos/wenxin.png
+      description: 百度AI绘画-文心一格
+
+- title: AI音频视频
+  tags: [fa-solid fa-star]
+  websites:
+    - name: BiliGPT
+      url: https://b.jimmylv.cn/
+      image: /images/logos/biligpt.png
+      description: 一键总结任何[小红书/B站/公众号/本地...]网页音视频内容
+    - name: RephraseAI
+      url: https://www.rephrase.ai/
+      image: /images/logos/rephraseai.png
+      description: 免费无需注册-最全最好01
+
+
+- title: AI杂类其他
+  tags: [fa-solid fa-star]
+  websites:
+    - name: GPTexcel
+      url: https://chatexcel.com
+      image: /images/logos/gptexcel.jpg
+      description: ai生成Excel公式-中文
+    - name: chatgpt学术
+      url: https://chat.academic.bnu120.space/
+      image: /images/logos/chatgpt4.0.png
+      description: chatgpt学术优化
+
+- title: Hi激活工具
+  tags: [fa-solid fa-star]
+  websites:
+    - name: office系列激活
+      url: https://otp.landian.vip/
+      image: /images/logos/office.png
+      description: 免费激活office全家桶
+    - name: mobaxterm激活
+      url: http://tool.94c.cn/moba/
+      image: /images/logos/mobaxterm.png
+      description: 免费激活mobaxterm
+
+- title: Hi素材资源
+  tags: [fa-solid fa-star]
+  websites:
+    - name: FontAwesome
+      url: https://fontawesome.com
+      image: /images/logos/fontawesome.png
+      description: 世界上最受欢迎和最容易使用的图标集
