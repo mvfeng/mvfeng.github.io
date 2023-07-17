@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-    <meta name="author" content="無名"/>
+    <meta name="author" content="#"/>
     <title>好导航就是C - hao.94c.cn</title>
     <meta name="keywords" content="网址导航">
     <meta name="description" content="就是C">
@@ -77,7 +77,7 @@
     <div class="spinner-box">
         <span class="loader"></span>
         <div class="loading-word">
-            <p class="loading-title">OneNav</p>
+            <p class="loading-title">hao.94c.cn</p>
         </div>
     </div>
 </div>
@@ -88,7 +88,7 @@
                 <div class="logo">
                     <a rel="go-top"><i class="fa-solid fa-compass"></i></a>
                     <div class="logo-text">
-                        <a rel="go-top">OneNav</a>
+                        <a rel="go-top">好导航94C</a>
                     </div>
                 </div>
                 <div class="mobile-menu-toggle visible-xs">
@@ -120,9 +120,9 @@
         <nav class="navbar user-info-navbar" id="navbar" role="navigation">
             <ul class="user-info-menu left-links list-inline list-unstyled">
                 <li class="menu-item">
-                    <a href="#" target="_black">
+                    <a href="http://ai.94c.cn" target="_black">
                         <i class="fa-solid fa-house"></i>
-                        <span>主站</span>
+                        <span>返回旧版</span>
                     </a>
                 </li>
                 <li class="menu-item">
@@ -159,7 +159,7 @@
                         <li><input checked hidden type="radio" name="type" id="type-baidu"
                                    value="https://www.baidu.com/s?wd="
                                    data-placeholder="百度一下，你就知道"><label for="type-baidu"><span style="color:#2100E0"
-                                                                                              class="dark-text">百度</span></label>
+                                                                                                      class="dark-text">百度</span></label>
                         </li>
                         <li><input hidden type="radio" name="type" id="type-bing1" value="https://cn.bing.com/search?q="
                                    data-placeholder="微软 Bing 搜索"><label for="type-bing1"><span style="color:#007daa">Bing</span></label>
@@ -184,7 +184,7 @@
                     <ul class="search-type">
                         <li><input hidden type="radio" name="type" id="type-search" value="https://www.baidu.com/s?wd="
                                    data-placeholder="百度一下，你就知道"><label for="type-search"><span style="color:#2319dc"
-                                                                                               class="dark-text">百度</span></label>
+                                                                                                       class="dark-text">百度</span></label>
                         </li>
                         <li><input hidden type="radio" name="type" id="type-bing" value="https://cn.bing.com/search?q="
                                    data-placeholder="微软 Bing 搜索"><label for="type-bing"><span
@@ -308,7 +308,7 @@
                         <li><input hidden type="radio" name="type" id="type-liepin"
                                    value="https://www.liepin.com/zhaopin/?key="
                                    data-placeholder="猎聘网"><label for="type-liepin"><span style="color:#303a40"
-                                                                                         class="dark-text">猎聘网</span></label>
+                                                                                            class="dark-text">猎聘网</span></label>
                         </li>
                     </ul>
                 </div>
@@ -392,17 +392,17 @@
                     <div class="col-sm-3" v-for="(website, idx) in category.websites" :key="idx">
                         <div class="xe-widget xe-conversations box2 label-info"
                              @click="openWebsite(website.url)" data-toggle="tooltip"
-                             data-placement="bottom" :title="website.url">
+                             data-placement="bottom" :title="website.description">
                             <div class="xe-comment-entry">
-                                <a :href="website.url" class="xe-user-img">
+                                <a :href="website.url" target="_blank" class="xe-user-img">
                                     <img :src="website.image" class="lozad img-circle" width="40"
                                          data-src="/images/loading.svg">
                                 </a>
                                 <div class="xe-comment">
-                                    <a :href="website.url" class="xe-user-name overflowClip_1">
+                                    <a :href="website.url" target="_blank" class="xe-user-name overflowClip_1">
                                         <strong>{{ website.name }}</strong>
                                     </a>
-                                    <p class="overflowClip_2">{{ website.description }}</p>
+                                    <a :href="website.url" target="_blank"><p class="overflowClip_2">{{ website.description }}</p></a>
                                 </div>
                             </div>
                         </div>
@@ -452,15 +452,13 @@
                 <!-- Add your copyright text here -->
                 <p>
 
-                    &copy; 2020 - 2023
-                    </a> | Power by <a href="https://hexo.io/" target="_blank"><strong>Hexo</strong></a> & <a
-                        href="https://github.com/HCLonely/hexo-theme-webstack/"
-                        target="_blank"><strong>webstack</strong></a> |
+                    &copy; 2020-2023
+                    </a> | Power by <a href="https://github.com/HCLonely/hexo-theme-webstack/"target="_blank"><strong>webstack</strong></a> |
                     <script id="LA-DATA-WIDGET" crossorigin="anonymous" charset="UTF-8"
                             src="https://v6-widget.51.la/v6/K3tUAD8SiUeVg74K/quote.js?theme=0&f=12&display=0,0,0,0,0,0,1,1"></script>
-                    <strong> 声明：本网站信息均采集公开互联网，侵权必删！43451553@qq.com</strong><a target="_blank"
-                                                                              href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=BGlyYmFqY0R1dSpna2k"
-                                                                              style="text-decoration:none;"><img
+                    <strong> <strong> | 皖ICP备17021150号-3</strong> | 声明:信息均采集公开互联网,侵权必删! 43451553@qq.com </strong><a target="_blank"
+                                                                                                 href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=BGlyYmFqY0R1dSpna2k"
+                                                                                                 style="text-decoration:none;"><img
                         src="http://rescdn.qqmail.com/zh_CN/htmledition/images/function/qm_open/ico_mailme_11.png"/></a>
                 </p>
                 <!-- <div class="go-up">

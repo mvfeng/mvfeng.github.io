@@ -1,5 +1,41 @@
-- title: AI问答助手
+- title: Hi常用网站
   tags: [fa-solid fa-star]
+  websites:
+    - name: chatgpt4.0
+      url: http://goland.cc/
+      image: /images/logos/chatgpt4.0.png
+      description: 免费无注册-最好01
+    - name: chatgpt4.0
+      url: https://www.a0.chat/
+      image: /images/logos/chatgpt4.0.png
+      description: 免费无注册-百晓生AI
+    - name: 思默问答[ai大全]
+      url:  https://www.sitesmo.com/
+      image: /images/logos/simo.png
+      description: 免费无注册-思默问答[ai大全]
+    - name: chatgpt文献分析
+      url: https://www.knowledgetoproduct.com/
+      image: /images/logos/chatgpt4.0.png
+      description: chatgpt文献分析助手-支持PDF上传，针对文献内容，进行提问
+    - name: 灵感引擎[ai大全]
+      url:  https://www.aixx.ai/
+      image: /images/logos/chatgpt4.0.png
+      description: 免费无注册-灵感引擎[ai大全]
+    - name: github加速下载
+      url: https://ghproxy.com/
+      image: /images/logos/github.png
+      description: GitHub代理加速下载
+    - name: mobaxterm激活
+      url: http://tool.94c.cn/moba/
+      image: /images/logos/mobaxterm.png
+      description: 免费激活mobaxterm
+    - name: 视频去水印[大全]
+      url: https://lab.5ime.cn/video
+      image: /images/logos/eraser.png
+      description: 抖音/微视/快手/皮皮虾/6间房/哔哩哔哩/微博/绿洲/度小视/开眼/陌陌/皮皮搞笑/全民k歌/逗拍/虎牙/新片场/哔哩哔哩/Acfun/美拍/西瓜视频/火山小视频/网易云Mlog/好看视频/QQ小世界
+
+- title: AI问答助手
+  tags: [fa-solid fa-comment-dots]
   websites:
     - name: chatgpt4.0
       url: http://goland.cc/
@@ -27,7 +63,7 @@
       description: 免费无注册-思默问答[ai大全]
 
 - title: AI绘画处理
-  tags: [fa-solid fa-comment-dots]
+  tags: [fa-solid fa-palette]
   websites:
     - name: 文心一格
       url: https://yige.baidu.com/
@@ -35,7 +71,7 @@
       description: 百度AI绘画-文心一格
 
 - title: AI音频视频
-  tags: [fa-solid fa-star]
+  tags: [fa-brands fa-youtube]
   websites:
     - name: BiliGPT
       url: https://b.jimmylv.cn/
@@ -48,20 +84,28 @@
 
 
 - title: AI杂类其他
-  tags: [fa-solid fa-star]
+  tags: [fa-solid fa-handshake-angle]
   websites:
     - name: GPTexcel
       url: https://chatexcel.com
       image: /images/logos/gptexcel.jpg
       description: ai生成Excel公式-中文
-    - name: chatgpt学术
+    - name: chatgpt学术优化
       url: https://chat.academic.bnu120.space/
       image: /images/logos/chatgpt4.0.png
       description: chatgpt学术优化
+    - name: chatgpt文献分析
+      url: https://www.knowledgetoproduct.com/
+      image: /images/logos/chatgpt4.0.png
+      description: chatgpt文献分析助手-支持PDF上传，针对文献内容，进行提问
 
-- title: Hi激活工具
-  tags: [fa-solid fa-star]
+- title: Hi通用工具
+  tags: [fa-solid fa-screwdriver-wrench]
   websites:
+    - name: github加速下载
+      url: https://ghproxy.com/
+      image: /images/logos/github.png
+      description: GitHub代理加速下载
     - name: office系列激活
       url: https://otp.landian.vip/
       image: /images/logos/office.png
@@ -70,9 +114,17 @@
       url: http://tool.94c.cn/moba/
       image: /images/logos/mobaxterm.png
       description: 免费激活mobaxterm
+    - name: 视频去水印[大全]
+      url: https://lab.5ime.cn/video
+      image: /images/logos/eraser.png
+      description: 抖音/微视/快手/皮皮虾/6间房/哔哩哔哩/微博/绿洲/度小视/开眼/陌陌/皮皮搞笑/全民k歌/逗拍/虎牙/新片场/哔哩哔哩/Acfun/美拍/西瓜视频/火山小视频/网易云Mlog/好看视频/QQ小世界
+    - name: 微博图片溯源
+      url: https://lab.5ime.cn/Traceback
+      image: /images/logos/weibo.png
+      description: 根据微博图片链接反查上传者，并获取其公开信息
 
 - title: Hi素材资源
-  tags: [fa-solid fa-star]
+  tags: [fa-solid fa-marker]
   websites:
     - name: FontAwesome
       url: https://fontawesome.com
