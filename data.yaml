@@ -30,14 +30,21 @@
       image: /images/logos/mobaxterm.png
       description: 免费激活mobaxterm
     - name: 腾讯软件中心
-      url: https://pc.qq.com
+      url: https://pc.qq.com/category/c0.html
       image: /images/logos/qqpc.ico
       description: 海量免费软件高速下载，全部软件都已经过安全杀毒检测。手机、电脑客户端版应用软件大全，最新最快速的软件下载中心
     - name: 视频去水印[大全]
       url: https://lab.5ime.cn/video
       image: /images/logos/eraser.png
       description: 抖音/微视/快手/皮皮虾/6间房/哔哩哔哩/微博/绿洲/度小视/开眼/陌陌/皮皮搞笑/全民k歌/逗拍/虎牙/新片场/哔哩哔哩/Acfun/美拍/西瓜视频/火山小视频/网易云Mlog/好看视频/QQ小世界
-
+    - name: office系列激活
+      url: https://otp.landian.vip/
+      image: /images/logos/office.png
+      description: 免费激活office全家桶
+    - name: 交流社区
+      url: https://support.qq.com/products/600178
+      image: /images/logos/fankui.png
+      description: 提出你的想法与宝贵建议
 - title: AI问答助手
   tags: [fa-solid fa-comment-dots]
   websites:
@@ -107,7 +114,7 @@
   tags: [fa-solid fa-screwdriver-wrench]
   websites:
     - name: 腾讯软件中心
-      url: https://pc.qq.com
+      url: https://pc.qq.com/category/c0.html
       image: /images/logos/qqpc.ico
       description: 海量免费软件高速下载，全部软件都已经过安全杀毒检测。手机、电脑客户端版应用软件大全，最新最快速的软件下载中心
     - name: github加速下载
@@ -146,3 +153,11 @@
       url: https://www.iconfont.cn/
       image: /images/logos/iconfont.png
       description: 国内功能很强大且图标内容很丰富的矢量图标库，提供矢量图标下载、在线存储、格式转换等功能。阿里巴巴体验团队倾力打造，设计和前端开发的便捷工具
+- title: Hi留言交流
+  tags: [fa-solid fa-circle-h]
+  websites:
+    - name: 交流社区
+      url: https://support.qq.com/products/600178
+      image: /images/logos/fankui.png
+      description: 提出你的想法与宝贵建议
+
