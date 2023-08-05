@@ -26,7 +26,7 @@
       image: /images/logos/github.png
       description: GitHub代理加速下载
     - name: mobaxterm激活
-      url: http://tool.94c.cn/moba/
+      url: http://tool.94c.cn/mobax/
       image: /images/logos/mobaxterm.png
       description: 免费激活mobaxterm
     - name: 腾讯软件中心
@@ -126,7 +126,7 @@
       image: /images/logos/office.png
       description: 免费激活office全家桶
     - name: mobaxterm激活
-      url: http://tool.94c.cn/moba/
+      url: http://tool.94c.cn/mobax/
       image: /images/logos/mobaxterm.png
       description: 免费激活mobaxterm
     - name: 视频去水印[大全]
