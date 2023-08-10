@@ -4,10 +4,11 @@
     - name: chatgpt3.5
       url: https://www.ai-yuxin.space/chat
       image: /images/logos/chatgpt4.0.png
+      description: 免费无注册-最好01
     - name: chatgpt3.5
       url: https://www.zxf7460.cn/
       image: /images/logos/chatgpt4.0.png
-      description: 免费无注册-最好01
+      description: 免费无注册-最好02
     - name: chatgpt4.0
       url: https://www.a0.chat/
       image: /images/logos/chatgpt4.0.png
