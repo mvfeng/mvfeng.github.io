@@ -30,11 +30,11 @@
       image: /images/logos/github.png
       description: GitHub代理加速下载
     - name: mobaxterm激活
-      url: http://tool.94c.cn/mobax/
+      url: http://tool.94c.cn/
       image: /images/logos/mobaxterm.png
       description: 免费激活mobaxterm
     - name: linux一键脚本大全
-      url: https://downcn.github.io/
+      url: http://tool.94c.cn/
       image: /images/logos/linux.png
       description: linux一键懒人安装大全(大全更新1%)|1.更新Yum/apt源脚本（CentOS系列和Ubuntu自适配版）
     - name: 腾讯软件中心
@@ -46,7 +46,7 @@
       image: /images/logos/eraser.png
       description: 抖音/微视/快手/皮皮虾/6间房/哔哩哔哩/微博/绿洲/度小视/开眼/陌陌/皮皮搞笑/全民k歌/逗拍/虎牙/新片场/哔哩哔哩/Acfun/美拍/西瓜视频/火山小视频/网易云Mlog/好看视频/QQ小世界
     - name: office系列激活
-      url: https://otp.landian.vip/
+      url: http://tool.94c.cn/
       image: /images/logos/office.png
       description: 免费激活office全家桶
     - name: 交流社区
@@ -130,11 +130,11 @@
       image: /images/logos/github.png
       description: GitHub代理加速下载
     - name: office系列激活
-      url: https://otp.landian.vip/
+      url: http://tool.94c.cn/
       image: /images/logos/office.png
       description: 免费激活office全家桶
     - name: mobaxterm激活
-      url: http://tool.94c.cn/mobax/
+      url: http://tool.94c.cn/
       image: /images/logos/mobaxterm.png
       description: 免费激活mobaxterm
     - name: 视频去水印[大全]
