@@ -149,6 +149,10 @@
       url: https://lab.5ime.cn/Traceback
       image: /images/logos/weibo.png
       description: 根据微博图片链接反查上传者，并获取其公开信息
+    - name: 在线AI抠图换背景
+      url: https://www.remove.bg/
+      image: /images/logos/compass.png
+      description: 在线AI抠图换背景
 
 - title: Hi素材资源
   tags: [fa-solid fa-marker]
