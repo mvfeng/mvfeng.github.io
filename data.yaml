@@ -13,6 +13,10 @@
       url: https://www.a0.chat/
       image: /images/logos/chatgpt4.0.png
       description: 免费无注册-百晓生AI
+    - name: chatgpt3.5
+      url: https://al.ibooker.org.cn/assist
+      image: /images/logos/chatgpt4.0.png
+      description: 免费无注册-ailake问答助手
     - name: AILake-AI画图/助手
       url: https://al.ibooker.org.cn
       image: /images/logos/ailake.svg
