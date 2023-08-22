@@ -13,6 +13,10 @@
       url: https://www.a0.chat/
       image: /images/logos/chatgpt4.0.png
       description: 免费无注册-百晓生AI
+    - name: AILake-AI画图/助手
+      url: https://al.ibooker.org.cn
+      image: /images/logos/ailake.svg
+      description: 【白嫖】AILake 提供中文免费、无需注册、秒级响应，打开网站就可以直接使用...
     - name: 思默问答[ai大全]
       url:  https://www.sitesmo.com/
       image: /images/logos/simo.png
@@ -56,10 +60,14 @@
 - title: AI问答助手
   tags: [fa-solid fa-comment-dots]
   websites:
-    - name: chatgpt4.0
-      url: http://goland.cc/
+    - name: chatgpt3.5
+      url: https://www.ai-yuxin.space/chat
       image: /images/logos/chatgpt4.0.png
       description: 免费无注册-最好01
+    - name: chatgpt3.5
+      url: https://www.zxf7460.cn/
+      image: /images/logos/chatgpt4.0.png
+      description: 免费无注册-最好02
     - name: chatgpt4.0
       url: https://www.a0.chat/
       image: /images/logos/chatgpt4.0.png
@@ -84,6 +92,10 @@
 - title: AI绘画处理
   tags: [fa-solid fa-palette]
   websites:
+    - name: AILake-AI画图/助手
+      url: https://al.ibooker.org.cn
+      image: /images/logos/ailake.svg
+      description: 【白嫖】AILake 提供中文免费、无需注册、秒级响应，打开网站就可以直接使用...
     - name: 文心一格
       url: https://yige.baidu.com/
       image: /images/logos/wenxin.png
