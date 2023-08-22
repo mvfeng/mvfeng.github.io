@@ -125,6 +125,15 @@
       url: https://pc.qq.com/category/c0.html
       image: /images/logos/qqpc.jpg
       description: 海量免费软件高速下载，全部软件都已经过安全杀毒检测。手机、电脑客户端版应用软件大全，最新最快速的软件下载中心
+    - name: 360软件中心
+      url: https://baoku.360.cn/soft/list/cid/0
+      image: /images/logos/360.ico
+      description: 360软件宝库-海量软件官方正版下载_安全高速免费
+    - name: NET安装包全家桶
+      url: http://baoku.360.cn/soft/search?kw=net
+      image: /images/logos/net.png
+      description: NET安装包下载，电脑提示缺少NET库时用
+      
     - name: github加速下载
       url: https://ghproxy.com/
       image: /images/logos/github.png
