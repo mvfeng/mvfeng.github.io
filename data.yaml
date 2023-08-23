@@ -197,4 +197,12 @@
       url: https://support.qq.com/products/600178
       image: /images/logos/fankui.png
       description: 提出你的想法与宝贵建议
+- title: Hi友情链接
+  tags: [fa-solid fa-circle-h]
+  websites:
+    - name: 80源码网
+      url: https://80z.top
+      image: http://80z.top/wp-content/uploads/2022/12/活动.png
+      description: 网站源码分享
+
 
