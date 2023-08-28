@@ -153,6 +153,10 @@
       url: https://link.94c.cn/?link=http://baoku.360.cn/soft/search?kw=net
       image: /images/logos/net.png
       description: NET安装包下载，电脑提示缺少NET库时用
+    - name: 影视VIP解析
+      url: https://link.94c.cn/?link=https://tool.94c.cn/video/
+      image: /images/logos/compass.png
+      description: 复制影视链接，开始解析免费看
       
     - name: github加速下载
       url: https://link.94c.cn/?link=https://ghproxy.com
